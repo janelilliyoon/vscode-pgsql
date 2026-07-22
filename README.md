@@ -49,7 +49,7 @@ Visualize your database schemas quickly in VS Code.
 
 Explore PostgreSQL EXPLAIN output in four synchronized views: an interactive node graph showing operator relationships, an icicle chart for identifying hotspots, a sortable table for comparing nodes, and a raw source view with Monaco Editor support. Color-coded severity groups highlight performance bottlenecks, and GitHub Copilot integration provides AI-assisted analysis and optimization guidance. Launch the visualizer from the query editor toolbar, the Query Results panel, or the Command Palette.
 
-![Query Plan Visualization](img/query-plan-vis-vid.gif)
+![Query Plan Visualization](img/query-plan-viz-vid.gif)
 
 ### Object Explorer Search
 
